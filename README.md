@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student from UC San Diego and major in Mathematics - Computer Science.
+I'm currently an undergraduate student from UC San Diego majors in Mathematics - Computer Science.
 
 
 ## 🌐 Socials:
