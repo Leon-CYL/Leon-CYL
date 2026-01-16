@@ -15,4 +15,4 @@ I'm currently an undergraduate student from UC San Diego majors in Mathematics -
 ---
 [![](https://visitcount.itsvg.in/api?id=Leon-CYL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM -->
