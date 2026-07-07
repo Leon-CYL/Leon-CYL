@@ -1,6 +1,6 @@
 # 💫 About Me:
-University of California, San Diego - Math-CS, 09/2023 - 06/2026 
-Georgia Institute of Technology - MSCS, 08/26 - 05/28
+University of California, San Diego - Math-CS, 09/2023 - 06/2026 <br/>
+Georgia Institute of Technology - MSCS, 08/26 - 05/28 <br/>
 
 
 ## 🌐 Socials:
