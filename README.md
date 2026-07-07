@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently an undergraduate student from UC San Diego majors in Mathematics - Computer Science.
+University of California, San Diego - Math-CS, 09/2023 - 06/2026 
+Georgia Institute of Technology - MSCS, 08/26 - 05/28
 
 
 ## 🌐 Socials:
